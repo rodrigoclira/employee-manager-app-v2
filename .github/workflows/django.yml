@@ -28,5 +28,5 @@ jobs:
         pip install -r requirements.txt
     - name: Executar os Testes
       run: |
-        cd backend/luizlabs
+        cd backend/luizalabs
         python manage.py test
