@@ -2,7 +2,7 @@
 
 # Employee Manager Application (Frontend + Backend)
 
-Esse repositório baseia-se em https://github.com/rodrigoclira/employee-manager-app-v1 . Na versão v2 do repositório foi adicionado uma aplicação de frontend para acessar a API disponibilizada com DRF. Sendo assim duas aplicações são inicializadas por _containers_ docker, a _frontend_ e a _backend_.
+Esse repositório baseia-se em https://github.com/rodrigoclira/employee-manager-app-v1 . Na versão v2 do repositório foi adicionada uma aplicação de frontend para acessar a API disponibilizada com DRF. Sendo assim duas aplicações são inicializadas por _containers_ docker, a _frontend_ e a _backend_.
 
 Ambas as aplicações podem ser inicializadas usando o comando abaixo
 ```
